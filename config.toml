@@ -75,10 +75,9 @@ instagram = "MunifTanjim"
 linkedin = "muniftanjim"
 twitter = "vibhas77"
 telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
 
 [params.social.config]
-platforms = ["github","facebook","twitter","instagram","email","codepen","gitlab","linkedin","telegram","google_scholar"]
+platforms = ["github","facebook","twitter","instagram","email","codepen","gitlab","linkedin","telegram"]
 
 [taxonomies]
 author = "authors"
