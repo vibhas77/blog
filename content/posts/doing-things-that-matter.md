@@ -1,7 +1,8 @@
 ---
 title: "Doing Things That Matter"
 date: 2018-03-17T18:14:30+05:30
-draft: true
+tags:
+  - Productivity
 ---
 
 All of us are given approximately the same time.

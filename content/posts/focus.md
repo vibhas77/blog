@@ -1,7 +1,8 @@
 ---
 title: "Focus: X divided by infinity is zero"
 date: 2018-03-17T18:10:29+05:30
-draft: true
+tags:
+  - Productivity
 ---
 
 A small and relatively simple concept that I have learned over the last 2 years is this.
