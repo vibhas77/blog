@@ -90,6 +90,12 @@ weight = -10
 identifier = "repository"
 url = "https://github.com/MunifTanjim/minimo"
 
+[[menu.main]]
+name = "About"
+weight = -10
+identifier = "about"
+url = "/about"
+
 [blackfriday]
 hrefTargetBlank = true
 
