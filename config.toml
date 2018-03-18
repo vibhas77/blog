@@ -51,7 +51,7 @@ sticky = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","taxonomy_cloud"]
+sidebar = ["about","taxonomy_cloud","recent_posts","social_menu"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -80,6 +80,18 @@ platforms = ["github","twitter","instagram","email","gitlab"]
 author = "authors"
 category = "categories"
 tag = "tags"
+
+[[menu.main]]
+name = "Home"
+weight = -20
+identifier = "home"
+url = "/"
+
+[[menu.main]]
+name = "Posts"
+weight = -10
+identifier = "posts"
+url = "/posts/"
 
 [permalinks]
 page = "/:slug/"
