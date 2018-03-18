@@ -65,6 +65,10 @@ page = "vibhas77" # Twitter page username
 # Title Separator: - – — · • * ⋆ | ~ « » < >
 titleSeparator = "•"
 
+[params]
+    addThis = "ra-50594cfb1c07b16f"
+
+
 [params.social]
 email = "vibhas777@gmail.com"
 facebook = "vibhas.goyal"
