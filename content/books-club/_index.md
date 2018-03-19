@@ -9,3 +9,11 @@ weight: 0
 Book Of The Week Club - Vigo's Blog
 
 This is the book club.
+
+I am an avid book reader and I hope that my reviews and dedication to read books helps you in choosing your next books.
+
+Every Monday I select a new book to read and complete as much of it as possible.
+
+I also hope that as the views on my blog I can get better discussions and participants for each review.
+
+Please subscribe to our book club. 

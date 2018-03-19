@@ -87,13 +87,13 @@ tag = "tags"
 
 [[menu.main]]
 name = "Home"
-weight = -20
+weight = -200
 identifier = "home"
 url = "/"
 
 [[menu.main]]
 name = "Posts"
-weight = -10
+weight = -150
 identifier = "posts"
 url = "/posts/"
 
