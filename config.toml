@@ -21,7 +21,7 @@ defaultContentLanguage = "en"
 
 [params.info]
 description = "Build the future. Technology, Business, Design and Psychology"
-title404 = "Nothing's here!"
+title404 = "This content is not available in your country."
 
 [params.assets]
 favicon = "favicon.ico"
