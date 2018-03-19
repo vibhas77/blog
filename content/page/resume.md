@@ -6,3 +6,5 @@ weight: -50
 ---
 
 Please download my resume from here :
+
+[Resume](http://vibhasgoyal.com/resume.pdf)
