@@ -1,4 +1,4 @@
-baseURL = "http://www.vibhasgoyal.com"
+baseURL = "https://www.vibhasgoyal.com"
 title = "Vigo's Blog"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -50,8 +50,8 @@ enable = true
 sticky = true
 
 [params.widgets]
-homepage = ["recent_posts"]
-sidebar = ["about","twitter_follow","share_sidebar","recent_posts_sidebar","taxonomy_cloud"]
+homepage = ["preview_front","recent_posts","taxonomy_cloud"]
+sidebar = ["about","twitter_follow","share_sidebar","recent_posts_sidebar"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
