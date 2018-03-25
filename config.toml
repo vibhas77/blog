@@ -51,7 +51,7 @@ sticky = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","twitter_follow","share_sidebar","recent_posts_sidebar","taxonomy_cloud","social_menu"]
+sidebar = ["about","twitter_follow","share_sidebar","recent_posts_sidebar","taxonomy_cloud"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
