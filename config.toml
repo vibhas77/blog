@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = "vibhas77"
+disqusShortname = ""
 googleAnalytics = "UA-64881400-2"
 
 Paginate = 10
