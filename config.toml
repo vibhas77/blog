@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "vibhas77"
 googleAnalytics = "UA-64881400-2"
 
 Paginate = 10
@@ -51,7 +51,7 @@ sticky = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","twitter_follow","share_sidebar","taxonomy_cloud","recent_posts_sidebar","social_menu"]
+sidebar = ["about","twitter_follow","share_sidebar","recent_posts_sidebar","taxonomy_cloud","social_menu"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
