@@ -7,10 +7,11 @@ weight: 0
 comments: false
 ---
 
-This page is a collection of all my favourite content from other websites which I wish to bookmark here.
+This page is a collection of all my favourite content creators from other websites which I wish to bookmark here.
 
-In a way this is my personal awesome list of internet content.
+I also regularly tweet about the content that I consume online and that I believe would help others under the hastag #TwitterBookmarking.
 
+In a way this is my personal awesome list of internet content creators ( List not in any order of preference).
 
 ## Philosophy / Psychology
 
