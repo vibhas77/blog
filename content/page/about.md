@@ -6,7 +6,7 @@ weight: -100
 comments: false
 ---
 
-Hi, I am Vigo.
+Hi, I am Vigo (Vibhas Goyal).
 
 I am currently studying at IIT Hyderabad, B.Tech in Engineering Science and Computer Science ( 2014 - 2018 ).
 
@@ -14,7 +14,7 @@ This is the about page and for me, this page can be considered as one of the mos
 
 Thus I would begin my introduction with some of the facts related to me.
 
-I wish to become an entrepreneur and start my own profitable, scalable business. I am a harcore capitalist and read a lot of capitalist content. Something that comes naturally to me as a Baniya who are especially known for their knack of entrepreneurship in Indian Community.
+I wish to become an entrepreneur and start my own profitable and scalable business. I am a harcore capitalist and read a lot of capitalist content. Something that comes naturally to me as a Baniya who are especially known for their knack of entrepreneurship in Indian Community.
 
 I like to read a lot. I shamelessly accept that I consume a lot of content both online and offline. I love reading books. I love watching interviews. I like listening to podcasts and good music. Thus I really consume a lot of information. I know for a fact that I consume a lot of content than what I produce. (Which in many ways is a good problem to have, all thanks to the Information Age in which we live.)
 
