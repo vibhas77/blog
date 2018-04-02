@@ -8,3 +8,5 @@ Interesting Podcasts by Steve Blank. Please listen if you are interested to lear
 <iframe width="100%" height="166" scrolling="no" frameborder="no"
   src="https://w.soundcloud.com/player/?url=https://soundcloud.com/innovatorsradio/s1e5-steve-blank-lean-startup">
 </iframe>
+
+<!--more-->
