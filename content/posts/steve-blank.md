@@ -1,5 +1,5 @@
 ---
-title: "Steve Blank Podcast"
+title: "Steve Blank's Podcast Interview"
 date: 2018-04-01T16:46:01+05:30
 ---
 
