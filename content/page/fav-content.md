@@ -30,6 +30,7 @@ In a way this is my personal awesome list of internet content creators ( List no
 2. [Gary Vee]
 3. WallStreetPlayboys
 4. Budgets are sexy
+5. [Stanford Graduate School of Business](https://www.youtube.com/channel/UCGwuxdEeCf0TIA2RbPOj-8g)
 
 ## Technology
 
